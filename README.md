@@ -8,4 +8,6 @@ Version 3.5 is stable just rename it to firmware3.5.bin. This firmware is for th
 Version 3.6 is beta and untested
 
 
-version 4.0 is for the ENDER 3 VERSION 2 LCD screen.
+Version 3.7 swapped Filament sensor to HIGH.
+
+Version 3.8 keeps sensor at high just adds runout distance.
